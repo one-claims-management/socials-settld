@@ -1,0 +1,33 @@
+{
+  "brand": "settld",
+  "total": 387,
+  "formatted": "387",
+  "updatedAt": "2026-10-08T14:34:51.404Z",
+  "live": true,
+  "platforms": {
+    "instagram": {
+      "count": 61,
+      "formatted": "61",
+      "live": true,
+      "url": "https://www.instagram.com/settlduk/",
+      "handle": "settlduk",
+      "unit": "followers"
+    },
+    "tiktok": {
+      "count": 279,
+      "formatted": "279",
+      "live": true,
+      "url": "https://www.tiktok.com/@settlduk",
+      "handle": "@settlduk",
+      "unit": "followers"
+    },
+    "facebook": {
+      "count": 47,
+      "formatted": "47",
+      "live": true,
+      "url": "https://www.facebook.com/settlduk",
+      "handle": "settlduk",
+      "unit": "followers"
+    }
+  }
+}
